@@ -3,3 +3,4 @@ enter data in application
 logout from application
 report producted
 test cases failed only few passed
+test all passed now
